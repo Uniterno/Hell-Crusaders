@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d3f0d8e3832f6543b1ade88db25d127
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _fireWispPrefab: {fileID: 1070271620245159437, guid: 89fb44a4d80032a4fb68dc6fca98287c, type: 3}
+  - _iceWispPrefab: {fileID: 4230997636799634337, guid: 71d486afcf5b1a042b0df0bad04a20df, type: 3}
+  - _toxicWispPrefab: {fileID: 7930778605574897122, guid: 1a2b448b9e7e3b04992cdf1c4ebdc4c1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
